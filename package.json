@@ -50,7 +50,7 @@
     "jest": "24.1.0",
     "jest-cli": "24.1.0",
     "jest-puppeteer": "4.0.0",
-    "jsdom": "13.2.0",
+    "jsdom": "14.0.0",
     "jsdom-simulant": "1.1.2",
     "lint-staged": "8.1.4",
     "png.js": "0.2.1",
@@ -111,7 +111,7 @@
   },
   "resolutions": {
     "merge": ">=1.2.1",
-    "jsdom": ">=13.2.0",
+    "jsdom": "14.0.0",
     "handlebars": ">=4.1.0"
   }
 }
